@@ -1,2 +1,2 @@
-# my-website
+# Website
 Training repo for personal studies
