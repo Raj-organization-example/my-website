@@ -10,3 +10,4 @@ Making any change i want in it
 There will be varion on various branch without any prior explanation
 This commit is answerable to no one
 >>>>>>> 6b563ea8bd13d5a8b7cd841df188758d5e0362a8
+Update made on master on Github before rebase
