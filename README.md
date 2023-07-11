@@ -14,4 +14,4 @@ Update made on master on Github before rebase
 
 
 
-Just before getting out
+Just before getting out, and after taking bath
