@@ -1,8 +1,8 @@
 # Website
 Training repo for personal studies
-<<<<<<< HEAD
+****HEAD
 Reading comes first
-<<<<<<< HEAD
+*****HEAD
 =======
 Making any change i want in it
 >>>>>>> Examlple
